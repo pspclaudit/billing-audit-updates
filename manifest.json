@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-07-20T15:04:31",
+  "generated_at": "2026-07-20T16:03:01",
   "channel_repo": "pspclaudit/billing-audit-updates",
   "config": {
     "version": "cfg-20260720_142650",
@@ -9,9 +9,9 @@
     "notes": ""
   },
   "code": {
-    "version": "code-20260720_150423",
-    "sha256": "74b57db7a6b7e4d48d718acecc19f0dd54c9118fd388c12d76827d35ac734048",
-    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/code-20260720_150423/code.tar.gz",
+    "version": "code-20260720_160258",
+    "sha256": "684f195f175469021feb835aafc58c897639c415a4b3d8272cccb693d4e5e494",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/code-20260720_160258/code.tar.gz",
     "notes": "auto-published by worker"
   }
 }
