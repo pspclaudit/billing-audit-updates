@@ -1,17 +1,17 @@
 {
   "schema": 1,
-  "generated_at": "2026-07-20T16:03:01",
+  "generated_at": "2026-07-20T16:04:50",
   "channel_repo": "pspclaudit/billing-audit-updates",
   "config": {
-    "version": "cfg-20260720_142650",
-    "sha256": "80f3e731c2595f15acef19fe6860cdfaf79416150b085b5721aad5e92fec0068",
-    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/cfg-20260720_142650/config.tar.gz",
-    "notes": ""
+    "version": "cfg-20260720_160443",
+    "sha256": "332c259a496b1d59a4830d9dffe68d218339d4333f81c5cadcc69ab07d4d7713",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/cfg-20260720_160443/config.tar.gz",
+    "notes": "auto-published by worker"
   },
   "code": {
-    "version": "code-20260720_160258",
-    "sha256": "684f195f175469021feb835aafc58c897639c415a4b3d8272cccb693d4e5e494",
-    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/code-20260720_160258/code.tar.gz",
+    "version": "code-20260720_160443",
+    "sha256": "181d197ce5e633671eef2c55a28a133cf58b5cef32c591d9ef37ac11e207f993",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/code-20260720_160443/code.tar.gz",
     "notes": "auto-published by worker"
   }
 }
