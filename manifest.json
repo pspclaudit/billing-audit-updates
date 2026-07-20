@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "generated_at": "2026-07-20T14:23:22",
+  "channel_repo": "pspclaudit/billing-audit-updates",
+  "config": {
+    "version": "cfg-20260720_142315",
+    "sha256": "cc4ccd40e083d7b65612652c475fc07c6767dca140d49e558d32c398461f3da8",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/cfg-20260720_142315/config.tar.gz",
+    "notes": ""
+  },
+  "code": {
+    "version": "code-20260720_142315",
+    "sha256": "c28ea77c105d91f101838e94c826ef37620376af9e552c0f1d9792dc29c35fba",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/code-20260720_142315/code.tar.gz",
+    "notes": ""
+  }
+}
