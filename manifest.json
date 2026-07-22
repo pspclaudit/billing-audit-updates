@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generated_at": "2026-07-22T16:05:16",
+  "generated_at": "2026-07-22T16:06:08",
   "channel_repo": "pspclaudit/billing-audit-updates",
   "release": {
     "version": "test-e2e-real-A",
-    "sha256": "929b0514175c864f823f6fc02c084741",
+    "sha256": "42913703aa9e1962916c1a98b21e10b3",
     "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/test-e2e-real-A/release.zip",
     "notes": "manual bundled code+schema+config publish by worker"
   }
