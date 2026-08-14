@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "generated_at": "2026-08-14T10:58:39",
+  "generated_at": "2026-08-14T11:35:38",
   "channel_repo": "pspclaudit/billing-audit-updates",
   "release": {
-    "version": "1.70",
-    "sha256": "35f1f69992126e40e4dbbdaaa16d9e643b74526579e9067a1a4f79919fbdff04",
-    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/1.70/release.zip",
+    "version": "1.71",
+    "sha256": "8dbfc8c9e7a9eb2d0ca2998065c55f235920b9cd3efd989166e9f1f042576172",
+    "asset_url": "https://github.com/pspclaudit/billing-audit-updates/releases/download/1.71/release.zip",
     "notes": ""
   }
 }
